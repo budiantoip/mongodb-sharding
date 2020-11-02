@@ -6,6 +6,8 @@ https://medium.com/the-glitcher/mongodb-sharding-9c5357a95ec1
 
 so credits should be given to the author, not me :)
 
+Note that, there was an issue when connecting to the mongo DB, and I had to make a patch, so the docker-compose content here is a bit different than the author.
+
 
 
 ## Before running up the docker
